@@ -21,36 +21,3 @@ I won 4th place on the version 1 of the program I will be entering the version 3
 
 <img src="https://github.com/CoolnerdcoderV3/JavaScript-Triangular-Arbitrage-Bot-V3/raw/main/iwon.png" width="750px">
 
-How to config the bot
-
-Let’s get started.
-
-Part 1. Main software installations.
-
-Extract the javascript-triangle-arbitrage-bot-v3.zip anywhere you like that easy for you to find.
-
-Part 2. Editing the settings.
-
-Open the bots main folder and find "config.js" file and open it with a text-editor:
-
-<img src="https://github.com/CoolnerdcoderV3/JavaScript-Triangular-Arbitrage-Bot-V3/raw/main/Screenshot%2006-23-2022%2009.54.22.png" >
-
-1.Set your public address and private key or your wallet seed if you have a wallet that does not give you the private key
-
-2.Set the Network  1 = ETH , 2 = BNB
-
-3.Save config.js
-
-4.Open index.html in any web-browser
-
-<img src="https://github.com/CoolnerdcoderV3/JavaScript-Triangular-Arbitrage-Bot-V3/raw/main/Screenshot%2006-23-2022%2009.54.51.png" >
-
-
-
-
-
-
-
-
-
-# Triangular-Arbitrage-Bot
